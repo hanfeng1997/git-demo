@@ -1,5 +1,4 @@
 hello, world!
-good bey!
 master test
 hot-fix test
 gggg bbbb.
